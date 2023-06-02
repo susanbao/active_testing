@@ -30,5 +30,6 @@ pip install accelerate -U
 pip install pycocotools
 
 sudo apt-get install git-lfs
+pip install rich
 
 #git remote set-url origin https://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@github.com/susanbao/active_testing.git
